@@ -16,29 +16,29 @@
     }
   ],
   "dependencies": {
-    "@angular/common": "~2.2.0",
-    "@angular/compiler": "~2.2.0",
-    "@angular/core": "~2.2.0",
-    "@angular/forms": "~2.2.0",
-    "@angular/http": "~2.2.0",
-    "@angular/platform-browser": "~2.2.0",
-    "@angular/platform-browser-dynamic": "~2.2.0",
-    "@angular/router": "~3.2.0",
-    "@angular/upgrade": "~2.2.0",
+    "@angular/common": "~2.4.8",
+    "@angular/compiler": "~2.4.8",
+    "@angular/core": "~2.4.8",
+    "@angular/forms": "~2.4.8",
+    "@angular/http": "~2.4.8",
+    "@angular/platform-browser": "~2.4.8",
+    "@angular/platform-browser-dynamic": "~2.4.8",
+    "@angular/router": "~3.4.8",
+    "@angular/upgrade": "~2.4.8",
     "core-js": "~2.4.1",
     "ng2f-bootstrap": "~0.0.4",
-    "ng2f-server": "~0.2.3",
-    "reflect-metadata": "~0.1.8",
-    "rxjs": "5.0.0-beta.12",
-    "systemjs": "0.19.40",
-    "toastr": "^2.1.2",
-    "zone.js": "~0.6.26"
+    "ng2f-server": "~0.2.4",
+    "reflect-metadata": "~0.1.10",
+    "rxjs": "~5.2.0",
+    "systemjs": "~0.20.9",
+    "toastr": "~2.1.2",
+    "zone.js": "~0.7.7"
   },
   "devDependencies": {
-    "concurrently": "2.2.0",
-    "typescript": "~2.0.3",
-    "@types/core-js": "~0.9.34",
-    "@types/node": "~6.0.46"
+    "concurrently": "~3.3.0",
+    "typescript": "~2.2.1",
+    "@types/core-js": "~0.9.35",
+    "@types/node": "~7.0.5"
   },
   "repository": {}
 }
